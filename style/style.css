@@ -108,6 +108,10 @@ body {
   /* Safari and Chrome */
   background-color: var(--accent-color);
 }
+.image-photo {
+  width: 10rem;
+  height: 10rem;
+}
 
 .footer {
   background: var(--bg-main-color);
