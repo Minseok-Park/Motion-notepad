@@ -11,7 +11,7 @@ class App {
       "Image Title",
       "https://picsum.photos/600/300"
     );
-    image.attchTo(appRoot, "beforeend");
+    image.attachTo(appRoot, "beforeend");
   }
 }
 

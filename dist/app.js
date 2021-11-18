@@ -5,7 +5,7 @@ var App = (function () {
         this.page = new PageComponent();
         this.page.attachTo(appRoot);
         var image = new ImageComponent("Image Title", "https://picsum.photos/600/300");
-        image.attchTo(appRoot, "beforeend");
+        image.attachTo(appRoot, "beforeend");
     }
     return App;
 }());
