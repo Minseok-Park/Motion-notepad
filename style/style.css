@@ -86,6 +86,12 @@ body {
   border-radius: 2px;
   border: 0;
   border-radius: 0.8rem;
+  cursor: pointer;
+  transition: all 0.4s ease;
+}
+.create-button:hover {
+  background-color: black;
+  transform: scale(1.1);
 }
 
 .main {
